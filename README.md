@@ -1,5 +1,6 @@
 # AffinityMD (`renai_simu`)
-##分子動力学で恋してる♡
+
+## 分子動力学で恋してる♡
 
 A stochastic particle simulation of romantic pair formation in a confined 2D box.
 
